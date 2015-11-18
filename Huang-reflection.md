@@ -1,6 +1,6 @@
 ####What git concepts were you struggling with prior to the GPS session?
 
-I was not entirely sure about `git fetch` and `git merge` prior to the GPS session. This was probably due to our use of `git push` during previous challenges over the `git fetch/merge` process. Nevertheless, this session helped clarify the uses of `git fetch` and `git merge` for me.
+I was not entirely sure about `git fetch` and `git merge` prior to the GPS session. This was probably due to our use of `git push` during previous challenges over the `git fetch/merge` process. Nevertheless, this session with Todd and Katy helped clarify the uses of `git fetch` and `git merge` for me.
 
 ####What concepts were clarified during the GPS?
 
@@ -10,7 +10,9 @@ Todd also shared with me a great tip for quick add/commits with `git commit -am 
 
 ####What questions did you ask your pair and the guide?
 
-I mainly asked clarifying questions if I was unsure of something and wanted a second opinion. Todd and I were on the hangouts group before the scheduled time so we were also able to get to know one another a bit more before the GPS started.
+I mainly asked clarifying questions if I was unsure of something and wanted a second opinion. For example, when we were discussing best practices for commit comments, I wanted to check with Katy and Todd if the imperative form was the best way to write comments. We had a discussion about it and looked it up to confirm. It was helpful to have these discussions so that I could solidify these concepts in my head.
+
+Also, Todd and I were on the hangouts group before the scheduled time so we were also able to get to know one another a bit more before the GPS started. We are both based out of the bay area, so it was nice to know more about each other before we started the GPS.
 
 ####What still confuses you about git?
 
