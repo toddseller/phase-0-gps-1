@@ -16,7 +16,7 @@ Also, Todd and I were on the hangouts group before the scheduled time so we were
 
 ####What still confuses you about git?
 
-I think I feel fairly comfortable with git now, especially after this pairing session. I'm sure there will be more concepts that I will have to learn about in the future!.
+I think I feel fairly comfortable with git now, especially after this pairing session. I'm sure there will be more concepts that I will have to learn about in the future!
 
 ####How was your first experience of pairing in a GPS?
 I thought my first experience pairing in a GPS was a lot of fun! I had a great time working with Todd and swapping between the driver/navigator roles with him. The GPS went smoothly and we were able to finish the challenge without too much trouble.
